@@ -127,8 +127,8 @@ h4{
 }
 
 .about img{
-    height: 20 px; 
-    width: 20 px; 
+    height: auto; 
+    width: 430 px; 
 }
 
 .about-text{
