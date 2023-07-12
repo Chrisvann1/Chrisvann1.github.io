@@ -307,7 +307,7 @@ footer2 p:nth-child(1){
     position: relative; 
     color: white;
     margin-bottom: 100px;
-    top: 1000px;
+    top: 30px;
     font-size: bold;
 }
 
@@ -323,7 +323,7 @@ footer2 p:nth-child(1){
     justify-content:center;
     background: purple;
     border-radius: 50%;
-    bottom: 1000px; 
+    bottom: 40px; 
     color: white; 
     text-decoration: none;
     font-size: 20px;
@@ -341,4 +341,4 @@ footer2 p:nth-child(1){
     font-size: 14px;
 }
 
-/* stuff */
+/* stuff1*/
