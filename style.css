@@ -269,6 +269,7 @@ footer p:nth-child(1){
 
 .subpage{
     position: absolute; 
+    top: 25%; 
     width: 100;
     display: flex;
     flex-direction: column;
