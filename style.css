@@ -306,7 +306,7 @@ footer2 p:nth-child(1){
     font-size: 25px;
     color: white;
     margin-bottom: 100px;
-    bottom: 60px;
+    height: 120;
     font-size: bold;
 }
 
@@ -316,14 +316,13 @@ footer2 p:nth-child(1){
 
 .social2 a{
     width: 45px;
-    height: 45px;
+    height: 80px;
     display: flex;
     align-items: center;
     justify-content:center;
     background: purple;
     border-radius: 50%;
     margin-bottom: 50; 
-    bottom: 30; 
     color: white; 
     text-decoration: none;
     font-size: 20px;
