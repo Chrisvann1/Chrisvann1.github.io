@@ -267,6 +267,13 @@ footer p:nth-child(1){
     font-size: 14px;
 }
 
+.end2 {
+    position: absolute; 
+    color: purple;
+    bottom: 15px;
+    font-size: 14px;
+}
+
 .subpage{
     position: absolute; 
     top: 25%; 
@@ -287,7 +294,6 @@ h7{
     color: white; 
     font-size: 20px;
     margin-bottom: 10px; 
-    justify-content: center; 
 }
 
 footer2{
@@ -331,13 +337,6 @@ footer2 p:nth-child(1){
 .social2 a:hover{
     transition: scale(1.3);
     transition: .3s;
-}
-
-.end2 {
-    position: absolute; 
-    color: purple;
-    bottom: 5px;
-    font-size: 14px;
 }
 
 /* stuff */
