@@ -273,7 +273,7 @@ footer p:nth-child(1){
     width: 100;
     display: flex;
     flex-direction: column;
-    align-items: center; 
+    text-align: center; 
     justify-content: center;
 }
 
@@ -303,7 +303,7 @@ footer2{
 footer2 p:nth-child(1){
     font-size: 30px;
     color: white;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     font-size: bold;
 }
 
