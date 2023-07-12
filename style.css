@@ -295,7 +295,7 @@ footer2{
     height:150px;
     left: 0px;
     bottom: 0px;
-    background: #191919; 
+    background: #101010; 
     display: flex; 
     flex-direction:column; 
     align-items: center; 
@@ -304,9 +304,10 @@ footer2{
 
 footer2 p:nth-child(1){
     font-size: 25px;
+    position: relative; 
     color: white;
     margin-bottom: 100px;
-    height: 120;
+    top: 30px;
     font-size: bold;
 }
 
@@ -322,7 +323,7 @@ footer2 p:nth-child(1){
     justify-content:center;
     background: purple;
     border-radius: 50%;
-    margin-bottom: 50; 
+    bottom: 40px; 
     color: white; 
     text-decoration: none;
     font-size: 20px;
