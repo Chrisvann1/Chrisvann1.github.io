@@ -306,6 +306,7 @@ footer2 p:nth-child(1){
     font-size: 25px;
     position: relative; 
     color: white;
+    margin-bottom: 45px;
     top: 100px;
     font-size: bold;
 }
