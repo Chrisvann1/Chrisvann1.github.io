@@ -263,7 +263,7 @@ footer p:nth-child(1){
 .end{
     position: absolute; 
     color: purple;
-    bottom: 10px;
+    bottom: 30px;
     font-size: 14px;
 }
 
@@ -287,14 +287,15 @@ h7{
     color: white; 
     font-size: 20px;
     margin-bottom: 10px; 
+    text-align: left; 
 }
 
 footer2{
     position: fixed; 
     width:100%;
-    height:100px;
+    height:150px;
     left: 0px;
-    bottom: 20px;
+    bottom: 70px;
     background: #191919; 
     display: flex; 
     flex-direction:column; 
@@ -303,9 +304,9 @@ footer2{
 }
 
 footer2 p:nth-child(1){
-    font-size: 30px;
+    font-size: 25px;
     color: white;
-    margin-bottom: 10px;
+    margin-bottom: 70px;
     font-size: bold;
 }
 
