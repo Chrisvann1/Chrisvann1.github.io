@@ -296,7 +296,7 @@ h7{
     margin-bottom: 10px; 
 }
 
-footer2{
+.footer2{
     position: fixed; 
     width:100%;
     height:150px;
@@ -309,7 +309,7 @@ footer2{
     justify-content: center;
 }
 
-footer2 p:nth-child(1){
+.footer2 p:nth-child(1){
     font-size: 25px;
     color: white;
     margin-bottom: 100px;
