@@ -263,7 +263,7 @@ footer p:nth-child(1){
 .end{
     position: absolute; 
     color: purple;
-    bottom: 35px;
+    bottom: 10px;
     font-size: 14px;
 }
 
