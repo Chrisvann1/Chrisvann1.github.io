@@ -287,7 +287,7 @@ h7{
     color: white; 
     font-size: 20px;
     margin-bottom: 10px; 
-    text-align: left; 
+    justify-content: center; 
 }
 
 footer2{
@@ -295,7 +295,7 @@ footer2{
     width:100%;
     height:150px;
     left: 0px;
-    bottom: 70px;
+    bottom: 0px;
     background: #191919; 
     display: flex; 
     flex-direction:column; 
@@ -306,7 +306,7 @@ footer2{
 footer2 p:nth-child(1){
     font-size: 25px;
     color: white;
-    margin-bottom: 70px;
+    margin-bottom: 100px;
     font-size: bold;
 }
 
@@ -322,7 +322,7 @@ footer2 p:nth-child(1){
     justify-content:center;
     background: purple;
     border-radius: 50%;
-    margin: 22px 10px; 
+    margin-bottom: 50; 
     color: white; 
     text-decoration: none;
     font-size: 20px;
@@ -331,4 +331,11 @@ footer2 p:nth-child(1){
 .social2 a:hover{
     transition: scale(1.3);
     transition: .3s;
+}
+
+.end2 {
+    position: absolute; 
+    color: purple;
+    bottom: 5px;
+    font-size: 14px;
 }
